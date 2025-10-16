@@ -1,8 +1,8 @@
 ***Play Store App Review Analysis***
 
 📘 Overview
-This project analyzes Google Play Store app reviews and ratings to understand user behavior, sentiment, and category performance.
-It combines Python-based data analysis with an interactive Excel dashboard for clear, data-driven insights.
+~This project analyzes Google Play Store app reviews and ratings to understand user behavior, sentiment, and category performance.
+~It combines Python-based data analysis with an interactive Excel dashboard for clear, data-driven insights.
 
 🎯 Objectives
 1. Clean and prepare app review data for analysis
