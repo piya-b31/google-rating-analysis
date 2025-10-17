@@ -25,7 +25,8 @@ This project analyzes Google Play Store app reviews and ratings to understand us
 ~PlayStore_App_Review_Analysis.ipynb – Complete Python analysis notebook
 ~Excel Dashboard.xlsx – Interactive visual summary of findings
 
-👩‍💻 Author
-Piya Bharwani
+👩‍💻 Author - Piya Bharwani
+
 🎓 Avantika University
+
 💡 Data Analytics | SQL | Python | Excel | Visualization
