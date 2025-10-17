@@ -17,13 +17,13 @@ This project analyzes Google Play Store app reviews and ratings to understand us
 4. Common user issues include app crashes and excessive ads
 
 ⚙️ Tools & Technologies
-~Python (Pandas, NumPy, Matplotlib, Seaborn)
-~Jupyter Notebook for data analysis
-~Microsoft Excel for dashboard visualization
+1. Python (Pandas, NumPy, Matplotlib, Seaborn)
+2. Jupyter Notebook for data analysis
+3. Microsoft Excel for dashboard visualization
 
 📈 Deliverables
-~PlayStore_App_Review_Analysis.ipynb – Complete Python analysis notebook
-~Excel Dashboard.xlsx – Interactive visual summary of findings
+1. PlayStore_App_Review_Analysis.ipynb – Complete Python analysis notebook
+2. Excel Dashboard.xlsx – Interactive visual summary of findings
 
 👩‍💻 Author - Piya Bharwani
 
